@@ -22,5 +22,6 @@
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anuptain/)
 - [Email](anupwork4@gmail.com)
+- [Instagram](https://www.instagram.com/anooptain)
 
 > *Learning in public. Building one project at a time.* 🚀
