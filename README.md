@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> Aspiring Tech Professional<br> Currently learning Python, HTML, CSS, and AI tools<br> Building projects and improving my problem-solving skills every day<br> Interested in AI, Automation, and Open Source<br> Goal: Become a Cybersecurity Expert and Software Developer<br><br>«Learning in public. Building one project at a time.»
+<br> Aspiring Tech Professional<br> Currently learning Python, HTML, CSS, and AI tools<br> Building projects and improving my problem-solving skills every day<br> Interested in AI, Automation, and Open Source<br> Goal: Become a Cybersecurity Expert and Software Developer<br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Anooptain&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
