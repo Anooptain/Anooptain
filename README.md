@@ -21,6 +21,6 @@
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anuptain/)
-- Email: **anupwork4@gmail.com**
+- [Email](anupwork4@gmail.com)
 
 > *Learning in public. Building one project at a time.* 🚀
