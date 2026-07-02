@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Anoop 👋
 
-<!--
-**Anooptain/Anooptain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Tech Professional <br/>
+🌱 Currently learning Python, HTML, CSS & AI Tools <br/>  
+🚀 Building projects and improving my skills every day  <br/>
+🔍 Interested in AI, Automation & Open Source  <br/>
+🎯 Goal: Become a Technical Support Engineer & Software Developer<br/>
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Python
+- HTML
+- CSS
+- Git & GitHub (Learning)
+- AI Tools (ChatGPT, Claude, GenAi ETC.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- Python
+- Git & GitHub
+- Linux Basics
+- Networking Fundamentals
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/anuptain/)
+- Email: **anupwork4@gmail.com**
+
+> *Learning in public. Building one project at a time.* 🚀
