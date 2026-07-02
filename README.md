@@ -1,6 +1,6 @@
 # Hi there, I'm ANUP👋
 
-💻 Aspiring Tech Professional 
+💻 Aspiring Tech Professional <br/>
 🌱 Currently learning Python, HTML, CSS & AI Tools   
 🚀 Building projects and improving my skills every day  
 🔍 Interested in AI, Automation & Open Source  
