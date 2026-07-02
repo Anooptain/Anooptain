@@ -1,4 +1,4 @@
-# Hi there, I'm Anoop 👋
+# Hi there, I'm ANUP👋
 
 💻 Aspiring Tech Professional <br/>
 🌱 Currently learning Python, HTML, CSS & AI Tools <br/>  
