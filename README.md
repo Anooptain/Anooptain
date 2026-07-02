@@ -1,10 +1,10 @@
 # Hi there, I'm ANUP👋
 
-💻 Aspiring Tech Professional <br/>
-🌱 Currently learning Python, HTML, CSS & AI Tools <br/>  
-🚀 Building projects and improving my skills every day  <br/>
-🔍 Interested in AI, Automation & Open Source  <br/>
-🎯 Goal: Become a Technical Support Engineer & Software Developer<br/>
+💻 Aspiring Tech Professional 
+🌱 Currently learning Python, HTML, CSS & AI Tools   
+🚀 Building projects and improving my skills every day  
+🔍 Interested in AI, Automation & Open Source  
+🎯 Goal: Become a Technical Support Engineer & Software Developer
 
 ### 🛠️ Tech Stack
 - Python
